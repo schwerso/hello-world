@@ -13,6 +13,9 @@ namespace firstTestApplication
       Console.WriteLine("Sonja, beweg dein Arsch!");
       Console.WriteLine("Wenn du jetzt bereit bist zu beginnen, betätige eine Taste");
       Console.ReadKey();
+    
+    // und nun ein Kommentar zum nächsten Projekt: Array
+    
     }
   }
 }
